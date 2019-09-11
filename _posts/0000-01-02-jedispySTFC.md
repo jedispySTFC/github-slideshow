@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Environmentalists are bad for the planet
 Use the left arrow to go back!
